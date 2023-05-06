@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_add_contact.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_admin1.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_admin2.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_alhaty.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_children.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_location.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_log_in.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_logo.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_mens.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_new_user.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_shop1.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_start.xml" value="0.20416666666666666" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_update_contact.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_usag_policy.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_who_we.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/activity_women.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/item_admin.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/item_kid.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/item_men.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/layout/item_womean.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/menu/deletemenu.xml" value="0.25" />
+        <entry key="..\:/ShadaAlmansy/app/src/main/res/menu/menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

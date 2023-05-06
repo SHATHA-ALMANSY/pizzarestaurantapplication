@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".who_we">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:orientation="horizontal"
+        android:padding="30dp">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="23dp"
+            android:layout_height="71dp"
+            android:layout_gravity="center|top"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/lo" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_weight="1"
+            android:text="من نحن ؟ "
+            android:textColor="#040303"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="متجر الحاطي  يعتبر الأول من نوعه في دير البلح لما يقدمه من منتجات و خدمات, ما بين المنتجات المحلية و المستوردة , مع توصيل سريع و خدمة عملاء محترفة, و تأتي منتجاتنا بأسعار معقولة تناسب كافة مستويات الدخل , ويعمل المتجر على مواكبة السوق و يقدم منتجات حديثة و متنوعة, حيث سيجد العملاء في المتجر سهولة إختيار المنتجات و البحث عنها , حيث بذل طاقم المتجر جهده في جعل عملية التسوق لدينا ممتعة و سهلة و سريعة و توفر كل ما يحتاجه العملاء من تسهيلات في جميع النواحي."
+        android:textSize="20sp"
+        android:textStyle="bold" />
+</LinearLayout>

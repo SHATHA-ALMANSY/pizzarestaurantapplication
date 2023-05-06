@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "876718110373",
+    "firebase_url": "https://shadaalmansy-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "shadaalmansy",
+    "storage_bucket": "shadaalmansy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876718110373:android:b4373475bba6b71fd03f4c",
+        "android_client_info": {
+          "package_name": "com.shada.fairbaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876718110373-b42sc2d15nd7121taco8ait2ssomg16t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0mdrL5Ef7aoZ3KEdkQA0LtGO9pysNE1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876718110373-b42sc2d15nd7121taco8ait2ssomg16t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876718110373:android:22e59aa65d8ffbf7d03f4c",
+        "android_client_info": {
+          "package_name": "com.shada.myfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876718110373-b42sc2d15nd7121taco8ait2ssomg16t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0mdrL5Ef7aoZ3KEdkQA0LtGO9pysNE1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876718110373-b42sc2d15nd7121taco8ait2ssomg16t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876718110373:android:55c760945bd750a7d03f4c",
+        "android_client_info": {
+          "package_name": "com.shada.shada_almansy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876718110373-b42sc2d15nd7121taco8ait2ssomg16t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0mdrL5Ef7aoZ3KEdkQA0LtGO9pysNE1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876718110373-b42sc2d15nd7121taco8ait2ssomg16t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
